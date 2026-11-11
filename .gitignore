@@ -1,0 +1,17 @@
+.venv*/
+venv/
+.pip-cache*/
+.tmp*/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+r2s100k/runs/
+checkpoints/
+wandb/
+data/
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.log
